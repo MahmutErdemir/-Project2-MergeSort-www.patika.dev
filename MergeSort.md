@@ -1,4 +1,4 @@
-### Proje 2  - www.patika.dev
+### Proje 2  - www.patika.devs
 ***
 
 [16,21,11,8,12,22] -> Merge Sort
